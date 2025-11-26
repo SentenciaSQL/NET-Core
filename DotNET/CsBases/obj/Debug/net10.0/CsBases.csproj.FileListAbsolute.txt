@@ -1,0 +1,14 @@
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/bin/Debug/net10.0/CsBases
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/bin/Debug/net10.0/CsBases.deps.json
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/bin/Debug/net10.0/CsBases.runtimeconfig.json
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/bin/Debug/net10.0/CsBases.dll
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/bin/Debug/net10.0/CsBases.pdb
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/obj/Debug/net10.0/CsBases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/obj/Debug/net10.0/CsBases.AssemblyInfoInputs.cache
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/obj/Debug/net10.0/CsBases.AssemblyInfo.cs
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/obj/Debug/net10.0/CsBases.csproj.CoreCompileInputs.cache
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/obj/Debug/net10.0/CsBases.dll
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/obj/Debug/net10.0/refint/CsBases.dll
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/obj/Debug/net10.0/CsBases.pdb
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/obj/Debug/net10.0/CsBases.genruntimeconfig.cache
+/Users/andresfrias/Documents/Csharp/NET-Core/DotNET/CsBases/obj/Debug/net10.0/ref/CsBases.dll
