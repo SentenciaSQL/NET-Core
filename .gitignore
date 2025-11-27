@@ -1,0 +1,11 @@
+NET-Core/DotNET/ApiEcommerce/bin/
+NET-Core/DotNET/ApiEcommerce/obj/
+*.user
+*.suo
+*.vs
+.vscode/
+*.swp
+*.tmp
+wwwroot/lib/
+appsettings.*.json
+.env
