@@ -1,15 +1,11 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ApiEcommerce.Models
+namespace ApiEcommerce.Models.Dtos
 {
-    public class Category
+    public class CategoryDto
     {
-        [Key]
         public int Id { get; set; }
-        [Required]
         public string Name { get; set; } = string.Empty;
-        [Required]
         public DateTime CreationDate { get; set; }
-
     }
 }
