@@ -1,14 +1,17 @@
-﻿using ApiEcommerce.Models;
+﻿using ApiEcommerce.Constants;
+using ApiEcommerce.Models;
 using ApiEcommerce.Models.Dtos;
 using ApiEcommerce.Repository;
 using ApiEcommerce.Repository.IRepository;
 using AutoMapper;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ApiEcommerce.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors(PolicyNames.AllowSpecificOrigin)]
     public class ProductsController : ControllerBase
     {
         private readonly IProductRepository _productRepository;
